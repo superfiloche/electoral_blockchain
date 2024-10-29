@@ -45,4 +45,5 @@ main : rsa.o key.o signature.o cellkey.o cellprotected.o hash.o block.o tree.o v
 
 clean :
 	rm -f sources/bin/*.o
+	rm *.txt
 	rm main    
