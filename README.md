@@ -1,4 +1,4 @@
-# Polynom Multiplicaton Project
+# Electoral process
 
 ## Overview
 
