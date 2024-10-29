@@ -1,0 +1,17 @@
+Nb citoyens : 50 , nb candidats : 10, temps : 2.030 s
+
+Nb citoyens : 70 , nb candidats : 5, temps 2.843 s
+Nb citoyens : 70 , nb candidats : 50, temps : 3.068 s
+Nb citoyens : 70 , nb candidats : 70, temps : 3.232 s
+
+Nb citoyens : 100, nb candidats : 5, temps : 5.116 s
+Nb citoyens : 100, nb candidats : 50, temps : 3.599 s
+Nb citoyens : 100, nb candidats : 100, temps : 4.082 s
+
+Nb citoyens : 150, nb candidats : 5, temps : 6.854 s
+Nb citoyens : 150, nb candidats : 50, temps : 5.978 s
+Nb citoyens : 150, nb candidats : 100, temps : 7.578 s
+
+Nb citoyens : 200, nb candidats : 5, temps : 9.999 s
+Nb citoyens : 200, nb candidats : 50, temps : 8.294 s
+Nb citoyens : 200, nb candidats : 100, temps : 9.237 s
